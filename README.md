@@ -1,0 +1,2 @@
+# Student_Score_Prediction_Using_Linear_Regression
+Baisc prediction model uisng Linear Regression
